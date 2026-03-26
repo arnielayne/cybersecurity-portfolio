@@ -1,13 +1,20 @@
 # Cybersecurity Portfolio – Adam Zasiński
 
 ## 📌 Overview
-This repository contains hands-on cybersecurity projects focused on system administration, log analysis, and security monitoring.
+This portfolio presents hands-on cybersecurity projects focused on:
 
-The goal of this portfolio is to demonstrate practical skills in working with Windows environments, Active Directory, and security tools.
+- Building an Active Directory environment from scratch
+- Analyzing authentication logs (Event ID 4624 / 4625)
+- Detecting failed login attempts (brute-force patterns)
+
+All projects were built in a home lab using Hyper-V.
 
 ---
 
-## 🛠️ Projects
+## 🚀 Key Projects
+
+- Active Directory Lab (Domain Controller + log analysis)
+- Python Log Analysis Tool (failed login detection)
 
 ### 🔍 Log Analysis Tool (Python)
 A Python script that analyzes authentication logs and detects repeated failed login attempts (potential brute-force activity).

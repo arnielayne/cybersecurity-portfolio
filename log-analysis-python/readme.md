@@ -31,7 +31,7 @@ Failed login attempts by IP:
 
 Possible brute force attempts:
 
-⚠ Possible brute force from 192.168.1.10 (4 attempts)
+⚠ Possible brute force from 192.168.1.10 (5 attempts)
 ```
 
 ## Usage
