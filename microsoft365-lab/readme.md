@@ -13,7 +13,7 @@ This project demonstrates professional administration of a Microsoft 365 hybrid-
 ### 1. Identity & License Management
 Established a cloud directory with a structured user hierarchy. Assigned **Microsoft 365 Business Premium** licenses to enable advanced security features like Intune and Conditional Access.
 
-![Active Users List](01_active_users_list.png)
+![Active Users List](./screenshots/01_active_users_list.png)
 
 ### 2. Zero Trust Security: Conditional Access & MFA
 Implemented a "Zero Trust" security model by configuring **Conditional Access** policies. 
